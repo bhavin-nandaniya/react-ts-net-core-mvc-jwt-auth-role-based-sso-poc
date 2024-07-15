@@ -1,5 +1,4 @@
-This repo contains React TS with .NET CORE API adn MVC
-
+This repo contains React TS with .NET CORE API andMVC
 
 React as Frontend for Role User
 .NET Core API for REST API and Auth
