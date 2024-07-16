@@ -9,8 +9,17 @@ From React app user and admin both can login
 
 Code First Approach
 
--------------------------------15-Jul-2024-------------------------------
+Requirements:
+-- Node >V18, <20
+-- .NET 8
+-- VS and VS Code
+-- SQL SERVER
 
---INIT
+-- Setup
 
--------------------------------------------------------------------------
+Run in client app: npm i 
+Run in Dotnet VS package manager console: update-database
+
+start the project use swagger for registring user then you can login from react app
+
+NB: New users will have role of User, you have to change it from SQL Server.
